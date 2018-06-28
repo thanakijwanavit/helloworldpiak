@@ -13,7 +13,7 @@ your word file will be automatically updated
 
 prerequisite
 
-#python3
-#library :
-#  pip3 install python-docx
-#  pip3 install requests
+python3
+library :
+pip3 install python-docx
+pip3 install requests
